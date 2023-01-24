@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (5.6.4)
+  - AssistantKit (0.7.1)
+  - DZNEmptyDataSet (1.8.1)
+  - FLAnimatedImage (1.0.17)
+  - Gifu (3.3.1)
+  - IQKeyboardManager (6.5.11)
+  - Kingfisher (7.5.0)
+  - MediaBrowser (2.3.0):
+    - SDWebImage
+    - UICircularProgressRing
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - PopupKit (3.1.1)
+  - SDWebImage (5.14.3):
+    - SDWebImage/Core (= 5.14.3)
+  - SDWebImage/Core (5.14.3)
+  - SwiftKeychainWrapper (4.0.1)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - TwilioChatClient (4.2.1)
+  - UICircularProgressRing (8.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AssistantKit
+  - DZNEmptyDataSet
+  - FLAnimatedImage
+  - Gifu
+  - IQKeyboardManager
+  - Kingfisher (~> 7.0)
+  - MediaBrowser
+  - NVActivityIndicatorView
+  - PopupKit
+  - SwiftKeychainWrapper
+  - SwiftMessages
+  - TwilioChatClient (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AssistantKit
+    - DZNEmptyDataSet
+    - FLAnimatedImage
+    - Gifu
+    - IQKeyboardManager
+    - Kingfisher
+    - MediaBrowser
+    - NVActivityIndicatorView
+    - PopupKit
+    - SDWebImage
+    - SwiftKeychainWrapper
+    - SwiftMessages
+    - TwilioChatClient
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  AssistantKit: 245d28aefcf3aeae240c8ecbe3c62714e3f1c6d4
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FLAnimatedImage: bbf914596368867157cc71b38a8ec834b3eeb32b
+  Gifu: 416d4e38c4c2fed012f019e0a1d3ffcb58e5b842
+  IQKeyboardManager: ef43ce1ba1e5aaf4adf222c0a46f39761f246879
+  Kingfisher: b9c2a4a4af2990a768445c277359b27bde287d71
+  MediaBrowser: 6dc19b2d900db201083f2cdfb8bd650be7382bc3
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  PopupKit: e362ed92148d831a9c38a2bc7a25893e46d64c54
+  SDWebImage: 9c36e66c8ce4620b41a7407698dda44211a96764
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  TwilioChatClient: 7eae02efb2a0882c4cbe39cbb0ba6129681f6fe5
+  UICircularProgressRing: 19927375b2b21b5fa5fd9582f15ccdef9659da16
+
+PODFILE CHECKSUM: bc629a36fedb74c96b31cfb6d0ea0acd34bdde80
+
+COCOAPODS: 1.11.3
